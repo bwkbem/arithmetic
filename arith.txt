@@ -9,8 +9,3 @@ a * b
 
 division
 a / b
-
-exponent
-a ^ b
-
-The end
