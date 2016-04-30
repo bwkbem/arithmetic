@@ -4,3 +4,7 @@ a + b
  subtraction
 
 a - b
+
+multiplication
+
+a * b
